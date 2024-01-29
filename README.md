@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benneh Agyeman-Dua
 - 👀 I’m interested in DevOps, Cloud & Site Reliability
-- 🌱 I’m currently learning Jenkins, Terraform, Ansible
+- 🌱 I’m currently learning Jenkins, Terraform, Ansible,GitHub Actions
 - 💞️ I’m looking to collaborate on Devops Projects
 - 📫 How to reach me bagyeman90@gmail.com
   
