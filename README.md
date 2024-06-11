@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ## Benneh Agyeman-Dua
+- 👋 Hi, I’m Benneh Agyeman-Dua
   I'm a passionate cloud-native developer and DevOps enthusiast. With a strong background in software development and cloud infrastructure, I enjoy creating 
   scalable, reliable, and efficient solutions that leverage the latest technologies.
   
