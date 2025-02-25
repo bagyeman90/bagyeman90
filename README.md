@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Benneh Agyeman-Dua
   I'm a passionate cloud-native developer and DevOps enthusiast. With a strong background in software development and cloud infrastructure, I enjoy creating 
   scalable, reliable, and efficient solutions that leverage the latest technologies.
+  I am also passionate about High Performance Computing
+  
   
 - 👀 I’m interested in DevOps, Cloud & Site Reliability
 ### 🔧 Skills & Expertise
@@ -8,7 +10,7 @@
     Containerization: Docker, Kubernetes
     Infrastructure as Code: Terraform, AWS CloudFormation
     CI/CD: GitHub Actions, Jenkins, CircleCI
-    Programming Languages: Python, JavaScript, Go, Bash
+    Programming Languages: Python, JavaScript, Go, Bash, Slurm
 
 ### 🌟 Projects
 Cloud-Native Monitoring Application
