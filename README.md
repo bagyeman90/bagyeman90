@@ -19,7 +19,7 @@ A Python-based monitoring tool providing real-time observability for cloud infra
 ### Automated CI/CD Pipeline
 Implemented a robust CI/CD pipeline with GitHub Actions, automating the build, test, and deployment processes for multiple applications.
 - 💞️ I’m looking to collaborate on Devops Projects
-- 📫 How to reach me bagyeman90@gmail.com | +447551553974
+- 📫 How to reach me bagyeman90@gmail.com | +447724340403
   
 
 <!---
